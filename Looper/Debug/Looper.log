@@ -1,0 +1,12 @@
+﻿Build started 9/19/2015 7:09:19 PM.
+     1>Project "C:\Users\Sean\Documents\Visual Studio 2015\Projects\Looper\Looper\Looper.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Looper.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Looper.cpp
+         Looper.cpp
+     1>c:\users\sean\documents\visual studio 2015\projects\looper\looper\looper.cpp(11): error C2228: left of '.length' must have class/struct/union
+         c:\users\sean\documents\visual studio 2015\projects\looper\looper\looper.cpp(11): note: type is 'int'
+     1>Done Building Project "C:\Users\Sean\Documents\Visual Studio 2015\Projects\Looper\Looper\Looper.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.43
